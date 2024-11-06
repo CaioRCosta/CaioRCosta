@@ -1,5 +1,5 @@
 <div align="center">
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/de1ce724-40c9-4b40-ba9e-e336d3820946"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/9f931d82-b0c9-4a45-a423-c82637b0c0e6"/>
 <br>
 <br>
   
@@ -9,6 +9,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiorcwork@gmail.com)
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioRCosta&show_icons=true&theme=maroongold)
+
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/9f931d82-b0c9-4a45-a423-c82637b0c0e6"/>
 
 </div>
 
