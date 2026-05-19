@@ -14,10 +14,10 @@
 
 ## 👋 Hey, I'm Caio
 
-I'm an Information Systems undergraduate at **UFMG**. I like using code to solve practical problems—whether that means breaking down complex datasets or messing around with backend logic.
+I'm an Information Systems undergraduate at **UFMG**. I like using code to solve practical problems, whether that means breaking down complex datasets or messing around with backend logic.
 
 * **🎯 What I'm up to:** Currently diving deep into **Data Analytics** and studying for the **ANCORD certification** to better understand the financial market from the inside out.
-* **🛠️ Tools I actually use:** Python (Pandas, NumPy, Scikit-Learn), SQL, TypeScript, and a good amount of C/C++.
+* **🛠️ Tools I actually use:** Python (Pandas, NumPy, Scikit-Learn), SQL, TypeScript, C/C++.
 
 ---
 
