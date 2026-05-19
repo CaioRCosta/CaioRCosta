@@ -60,5 +60,5 @@
 ---
 
 <div align="center">
-
-![Caio's GitHub stats](
+  <img src="https://raw.githubusercontent.com/CaioRCosta/CaioRCosta/output/snake.svg" alt="Snake animation" />
+</div>
