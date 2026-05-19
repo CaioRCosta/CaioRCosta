@@ -12,25 +12,30 @@
 
 ---
 
-## 👋 Hey, I'm Caio
+## 🔬 About Me
+* 🎓 Undergraduate Information Systems student at **UFMG**.
+* 📊 Focusing on **Data Analytics** and preparing for the **ANCORD certification**.
+* 💡 Interested in data processing, statistical exploration, and financial market analysis.
 
-I'm an Information Systems undergraduate at **UFMG**. I like using code to solve practical problems, whether that means breaking down complex datasets or messing around with backend logic.
-
-* **🎯 What I'm up to:** Currently diving deep into **Data Analytics** and studying for the **ANCORD certification** to better understand the financial market from the inside out.
-* **🛠️ Tools I actually use:** Python (Pandas, NumPy, Scikit-Learn), SQL, TypeScript, C/C++.
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📈 What I'm Building & Analyzing
+## 📈 Featured Projects
 
 ### 📊 [Financial Data Exploration (Central Bank API)](https://github.com/CaioRCosta/seu-repositorio-aqui)
-A data project where I pull financing rates directly from the **Central Bank's Olinda API** using Python. 
-* **The Goal:** Clean the data, run an exploratory analysis (EDA), and compare how different Brazilian banks structure their interest rates (looking closely at CET and working capital).
-* *Tech stack: Python, Pandas, Matplotlib/Seaborn, API Integration.*
+* **What it is:** Python data script to pull financing rates from the Central Bank's Olinda API.
+* **The Goal:** Clean the dataset and run an Exploratory Data Analysis (EDA) focusing on bank interest rates (CET).
 
-### 🐕 [Cadê Pets — Frontend Screen](https://github.com/CaioRCosta/seu-repositorio-aqui)
-Building the frontend experience for a pet donation platform. It’s where I practice clean UI component structure and state management.
-* *Tech stack: TypeScript, Tailwind CSS.*
+### 🐕 [Cadê Pets — Frontend](https://github.com/CaioRCosta/seu-repositorio-aqui)
+* **What it is:** UI development for a pet donation and registry platform.
+* **The Goal:** Practicing clean component architecture and state management using TypeScript and Tailwind CSS.
 
 ---
 
