@@ -13,12 +13,12 @@
 
 ---
 
-## 🔬 About Me
+## About Me
 * 🎓 Undergraduate Information Systems student at **UFMG**.
 * 📊 Focusing on **Data Analytics** and preparing for the **ANCORD certification**.
 * 💡 Interested in data processing, statistical exploration, and financial market analysis.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Languages & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
