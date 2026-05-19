@@ -46,17 +46,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-## 📈 Featured Projects
-
-### 📊 [Financial Data Exploration (Central Bank API)](https://github.com/CaioRCosta/seu-repositorio-aqui)
-* **What it is:** Python data script to pull financing rates from the Central Bank's Olinda API.
-* **The Goal:** Clean the dataset and run an Exploratory Data Analysis (EDA) focusing on bank interest rates (CET).
-
-### 🐕 [Cadê Pets — Frontend](https://github.com/CaioRCosta/seu-repositorio-aqui)
-* **What it is:** UI development for a pet donation and registry platform.
-* **The Goal:** Practicing clean component architecture and state management using TypeScript and Tailwind CSS.
 
 ---
 
