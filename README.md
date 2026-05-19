@@ -3,41 +3,34 @@
 <br>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&pause=1000&color=E0AA3E&center=true&width=1100&height=160&lines=Hi%2C+my+name+is+Caio;Data+Analytics+%26+Finance+Enthusiast;Information+Systems+Student+at+UFMG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&pause=1000&color=E0AA3E&center=true&width=1100&height=160&lines=Hi%2C+my+name+is+Caio;Information+Systems+student+at+UFMG;Diving+into+Data+%26+Finance)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-r-costa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiorcwork@gmail.com)
-
-📊 **Focusing on Data Science, Business Intelligence, and Quantitative Finance**
 
 </div>
 
 ---
 
-## 🔬 About Me
-I am an Information Systems undergraduate student at **UFMG** passionate about turning complex datasets into actionable business strategies. My technical background in systems programming combined with continuous studies in finance allows me to approach data problems with an engineering mindset.
+## 👋 Hey, I'm Caio
 
-* **🎯 Current Focus:** Enhancing my quantitative finance skills and preparing for the **ANCORD Certification** to bridge the gap between data analytics and the financial market.
-* **💡 Methodology:** I apply frameworks like **CRISP-DM** to structure data projects, ensuring thorough Exploratory Data Analysis (EDA) and reliable feature engineering before modeling.
+I'm an Information Systems undergraduate at **UFMG**. I like using code to solve practical problems—whether that means breaking down complex datasets or messing around with backend logic.
 
-## 🛠️ Tech Stack & Core Competencies
-* **Data & Analytics:** Exploratory Data Analysis (EDA), Statistical Modeling, Feature Engineering, Data Visualization.
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, TypeScript, C/C++.
-* **Tools & Environment:** Git, GitHub, Linux environments, Tailwind CSS.
+* **🎯 What I'm up to:** Currently diving deep into **Data Analytics** and studying for the **ANCORD certification** to better understand the financial market from the inside out.
+* **🛠️ Tools I actually use:** Python (Pandas, NumPy, Scikit-Learn), SQL, TypeScript, and a good amount of C/C++.
 
 ---
 
-## 📈 Featured Projects
+## 📈 What I'm Building & Analyzing
 
-### 🧮 [Financial Analysis & Market Data Application](https://github.com/CaioRCosta/seu-repositorio-aqui)
-A Python application built to consume the **Central Bank's Olinda API**, capturing, analyzing, and comparing corporate financing rates across major Brazilian banks.
-* **Data Value:** Automates the extraction of public financial data, evaluates metrics like working capital and CET (Custo Efetivo Total), and generates analytical reports for decision-making.
-* **Keywords:** Python, API Integration, Data Processing, Financial Analysis.
+### 📊 [Financial Data Exploration (Central Bank API)](https://github.com/CaioRCosta/seu-repositorio-aqui)
+A data project where I pull financing rates directly from the **Central Bank's Olinda API** using Python. 
+* **The Goal:** Clean the data, run an exploratory analysis (EDA), and compare how different Brazilian banks structure their interest rates (looking closely at CET and working capital).
+* *Tech stack: Python, Pandas, Matplotlib/Seaborn, API Integration.*
 
-### 🐕 [Cadê Pets — Frontend Ecosystem](https://github.com/CaioRCosta/seu-repositorio-aqui)
-The frontend layer for a pet donation and registry platform using TypeScript and Tailwind CSS.
-* **Data Value:** Demonstrates ability to structure clean, responsive user interfaces and manage client-side state efficiently for smooth data flow.
-* **Keywords:** TypeScript, Tailwind CSS, Frontend Engineering, Component Architecture.
+### 🐕 [Cadê Pets — Frontend Screen](https://github.com/CaioRCosta/seu-repositorio-aqui)
+Building the frontend experience for a pet donation platform. It’s where I practice clean UI component structure and state management.
+* *Tech stack: TypeScript, Tailwind CSS.*
 
 ---
 
