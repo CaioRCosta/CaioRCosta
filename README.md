@@ -14,7 +14,7 @@
 ---
 
 ## About Me
-* 🎓 Undergraduate Information Systems student at **UFMG**.
+* 🎓 Undergraduate Information Systems (equivalent to Computer Science) student at **UFMG**.
 * 📊 Focusing on **Data Analytics** and preparing for the **ANCORD certification**.
 * 💡 Interested in data processing, statistical exploration, and financial market analysis.
 
