@@ -9,6 +9,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiorcwork@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/caiocosta250)
 
+<div align="center">
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/9f931d82-b0c9-4a45-a423-c82637b0c0e6"/>
+
 </div>
 
 ---
