@@ -21,7 +21,7 @@
 * 📊 Focusing on **Data Analytics** and preparing for the **ANCORD certification**.
 * 💡 Interested in data processing, statistical exploration, and financial market analysis.
 
-> 🌍 **Portfolio Structure:** My data science write-ups and notebooks are available in **English** on my [Kaggle Profile](https://www.kaggle.com/caiocosta250). The repositories here on GitHub contain the original documentation focused on the Brazilian tech market (in **Portuguese**).
+**Portfolio Structure:** My data science write-ups and notebooks are available in **English** on my [Kaggle Profile](https://www.kaggle.com/caiocosta250). The repositories here on GitHub contain the original documentation focused on the Brazilian tech market (in **Portuguese**).
 
 ## Tech Stack
 
