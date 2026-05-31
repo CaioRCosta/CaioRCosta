@@ -44,6 +44,12 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🔧 Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -54,11 +60,3 @@
 | [D&D CR Analysis](https://github.com/CaioRCosta/dnd-cr-analysis) | Análise de balanceamento de monstros do D&D 5e com ML e NLP | Python, Scikit-Learn, Pandas | [Repositório](https://github.com/CaioRCosta/dnd-cr-analysis) |
 | [Steam Data Insights](https://github.com/CaioRCosta/Steam-Data) | Análise do mercado de games com CRISP-DM e DBSCAN | Python, Pandas, Seaborn | [Repositório](https://github.com/CaioRCosta/Steam-Data) |
 | Dashboard Financeiro PJ | Consultor de taxas de juros PJ com dados reais da API do Banco Central do Brasil | React, Node.js, Prisma, Chart.js | [Ver projeto ↗](https://dashboard-financeiro-adm.vercel.app/) |
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🔧 Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
