@@ -57,4 +57,4 @@
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| Dashboard Financeiro PJ | Interest rate advisor with automation and Brazilian Central Bank API data | React, Node.js, Express, Prisma | [Project](https://dashboard-financeiro-adm.vercel.app/) |
+| Dashboard Financeiro PJ | Interest rate advisor with automation and Brazilian Central Bank API data | React, Node.js, Express, Prisma | [Live Demo](https://dashboard-financeiro-adm.vercel.app/) |
