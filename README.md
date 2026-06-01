@@ -53,10 +53,8 @@
 
 ---
 
-## 📂 Projetos
+## 📂 Projects
 
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|-------------|------|
-| [D&D CR Analysis](https://github.com/CaioRCosta/dnd-cr-analysis) | Análise de balanceamento de monstros do D&D 5e com ML e NLP | Python, Scikit-Learn, Pandas | [Repositório](https://github.com/CaioRCosta/dnd-cr-analysis) |
-| [Steam Data Insights](https://github.com/CaioRCosta/Steam-Data) | Análise do mercado de games com CRISP-DM e DBSCAN | Python, Pandas, Seaborn | [Repositório](https://github.com/CaioRCosta/Steam-Data) |
-| Dashboard Financeiro PJ | Consultor de taxas de juros PJ com dados reais da API do Banco Central do Brasil | React, Node.js, Prisma, Chart.js | [Ver projeto ↗](https://dashboard-financeiro-adm.vercel.app/) |
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| Dashboard Financeiro PJ 🔒 | Interest rate advisor with automation and Brazilian Central Bank API data | React, Node.js, Express, Prisma | [Live Demo ↗](https://dashboard-financeiro-adm.vercel.app/) |
